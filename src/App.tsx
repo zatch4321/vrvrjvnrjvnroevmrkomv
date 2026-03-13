@@ -49,7 +49,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex justify-between items-center">
           <div className="flex items-center gap-2 sm:gap-3">
             <img
-              src="/rg4r4g4-removebg-preview.png"
+              src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBY46b75Ho6eLyPB36E6bsC-OgHjdXL9ElnY55wYAKCt7fshUADW_mSkHEQeERik8jExEr3LfNjwPIzV0KePo21XUYrbsvZe7lDRmCdlH6qGarxme_sdU2T8y_0ua0PubZFTWcIzVfXrR5Xl0CehfStPDcpsZF53jcSzapB-VDBvOSXPTd82nCRiBuwxE/s1600/rg4r4g4-removebg-preview.png"
               alt="Metro Grand Smash Logo"
               className="h-10 w-10 sm:h-12 sm:w-12 md:h-14 md:w-14 object-contain"
             />
@@ -139,18 +139,18 @@ Metro Banta & Co.</span>
           <div className="flex flex-col items-center justify-center mb-6 sm:mb-8">
             <div className="flex items-center justify-center gap-4 sm:gap-6 mb-4 sm:mb-6 flex-wrap">
               <img
-                src="/lionlogo_2c.jpg-removebg-preview.png"
+                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGrTnznFDVnUozdc-cnCUClmAGSLoUFFNQkJVFbeFY9MJlriFsvGuexxSkMtO7mj9YaZQvCApRNfcGeEaoL1h8smE_otfguz9ZnctNcy5M-atMZOkzXees1jaeg2ciklY-igdwQqnHXuHzeJEsdfEGwveL1vu-Wo41zmlPxfJuhmS_5vcfz1fmJ96gLoo/s1600/lionlogo_2c.jpg-removebg-preview.png"
                 alt="Lions Club"
                 className="h-16 sm:h-20 md:h-24 w-auto object-contain"
               />
               <img
-                src="/rg4r4g4-removehbg-preview.png"
+                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnUuAISAcOrC-MXgnQ823r9VyyKorzUPTtRaiCslloZ1Znx4C9HS1pQwIh9_VGYBB-SqzyPosqBbljI0OHFMgiONJd8JywrGWpAj8ZrBw2d14jfLtpt45kxyI2feRmssNarBrQHEntpUGI2ZChaKaAnBywMAHRZzNygA18c6QrYWw3YZA_pUosBOdgNdM/s1600/rg4r4g4-removehbg-preview.png"
                 alt="Olympic Logo"
                 className="h-16 sm:h-20 md:h-24 w-auto object-contain"
               />
             </div>
             <img
-              src="/rg4r4g4-removebg-preview.png"
+              src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBY46b75Ho6eLyPB36E6bsC-OgHjdXL9ElnY55wYAKCt7fshUADW_mSkHEQeERik8jExEr3LfNjwPIzV0KePo21XUYrbsvZe7lDRmCdlH6qGarxme_sdU2T8y_0ua0PubZFTWcIzVfXrR5Xl0CehfStPDcpsZF53jcSzapB-VDBvOSXPTd82nCRiBuwxE/s1600/rg4r4g4-removebg-preview.png"
               alt="Metro Grand Smash"
               className="h-40 sm:h-52 md:h-64 lg:h-72 w-auto object-contain drop-shadow-lg mb-4 sm:mb-6"
             />
@@ -214,12 +214,12 @@ Metro Banta & Co.</span>
               </div>
               <div className="flex flex-col sm:flex-row items-center justify-center gap-6 sm:gap-8">
                 <img
-                  src="/fg.png"
+                  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVQ17sFkN-qiUwhf1b3e6Nt1jA4caKnEEb38Htr4aCfib_2s-Qzwpqbepovz224-5h_75ZGeJhlEpMpLbj7SrOwJIajdFOXNdIb2qrV6GTwneFKzJFJZbwJOhzUxfS0h3sGXSr-9i6yqAL_XZv_GJC1R1G9x8EMJjELPkbdqgWnHZ1XpRx9WcL0ld9Kvk/s1600/fg.png"
                   alt="Metro Banta & Co."
                   className="h-32 sm:h-40 md:h-48 lg:h-56 w-auto object-contain drop-shadow-2xl"
                 />
                 <img
-                  src="/ChatGPT_Image_Mar_12__2026__09_14_28_PM-removebg-preview.png"
+                  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy6_EGg3t5OT0NyW2QZnh_42NamNEWCW41vkmyjYqk1jmajRwuhHic0db6zIp72OOQ5mQJ30S5CaH2idL5I4SqSWxDbMPKaCNBioQ0akv8yH1ZGZKs1rFCw_aoN-XO1_TsQhOLNc4WyZWaMoLUkVLJUdkhf6LXpeUgK4GT_wIAEL2WLgRG7Isd7QXxIp4/s1600/ChatGPT_Image_Mar_12__2026__09_14_28_PM-removebg-preview.png"
                   alt="Kairox Events"
                   className="h-32 sm:h-40 md:h-48 lg:h-56 w-auto object-contain drop-shadow-2xl"
                 />
@@ -451,7 +451,7 @@ Metro Banta & Co.</span>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-center mb-6 sm:mb-8">
             <img
-              src="/rg4r4g4-removebg-preview.png"
+              src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBY46b75Ho6eLyPB36E6bsC-OgHjdXL9ElnY55wYAKCt7fshUADW_mSkHEQeERik8jExEr3LfNjwPIzV0KePo21XUYrbsvZe7lDRmCdlH6qGarxme_sdU2T8y_0ua0PubZFTWcIzVfXrR5Xl0CehfStPDcpsZF53jcSzapB-VDBvOSXPTd82nCRiBuwxE/s1600/rg4r4g4-removebg-preview.png"
               alt="Metro Grand Smash Logo"
               className="h-16 w-16 sm:h-20 sm:w-20 object-contain"
             />
